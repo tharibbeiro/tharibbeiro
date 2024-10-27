@@ -1,9 +1,9 @@
-## Olá, me chamo Thaís 👋
+# Olá, me chamo Thaís 👋
 
 Sou estudante de análise e desenvolvimento de sistema, buscando me desenvolver especialmente na área de data analytics\data engineer. 
 
-# Conecte-se comigo 
- [LinkedIn]([seu-linkedin](https://www.linkedin.com/in/tha%C3%ADs-fernandes-ribeiro-b15b6a186/))
+## Conecte-se comigo 
+- [LinkedIn]([seu-linkedin](https://www.linkedin.com/in/tha%C3%ADs-fernandes-ribeiro-b15b6a186/))
 <!--
 **tharibbeiro/tharibbeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
